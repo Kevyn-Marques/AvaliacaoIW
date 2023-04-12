@@ -1,0 +1,31 @@
+body{
+    background-color:#191919;
+}
+header{
+    background-color:#ff0400;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+.container{
+    background-color:#404040;
+    margin:auto;
+    width:80%;
+}
+h2{
+    color:ghostwhite;
+}
+p{
+    color:ghostwhite;
+}
+.banner{
+    margin:auto;
+    width:100%;
+}
+footer{
+    background-color:#565656;
+}
+ul{
+    color:ghostwhite;
+}
